@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCentral.Websites.Base", "JobCentral.Websites.Base\JobCentral.Websites.Base.csproj", "{F91B36A6-DCBE-4A62-B50C-CF1F47736DA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobCentral.Websites.Base.Services", "JobCentral.Websites.Base.Services\JobCentral.Websites.Base.Services.csproj", "{C8DDBDF6-84BB-4B63-9555-D051F1E6A0DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F91B36A6-DCBE-4A62-B50C-CF1F47736DA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91B36A6-DCBE-4A62-B50C-CF1F47736DA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91B36A6-DCBE-4A62-B50C-CF1F47736DA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91B36A6-DCBE-4A62-B50C-CF1F47736DA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8DDBDF6-84BB-4B63-9555-D051F1E6A0DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8DDBDF6-84BB-4B63-9555-D051F1E6A0DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8DDBDF6-84BB-4B63-9555-D051F1E6A0DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8DDBDF6-84BB-4B63-9555-D051F1E6A0DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
